@@ -123,7 +123,6 @@ Por enquanto, meu foco é aprender bem a base, fazer projetos e ir aumentando a 
 
 No futuro, quero descobrir qual área do desenvolvimento combina mais comigo e trabalhar profissionalmente com tecnologia.
 
-GitHub
 <div align="center"> <a href="https://github.com/Ariaszx"> <img src="https://img.shields.io/badge/Meus%20repositórios-2563EB?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 <br><br>
