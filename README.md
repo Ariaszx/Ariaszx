@@ -127,5 +127,5 @@ No futuro, quero descobrir qual área do desenvolvimento combina mais comigo e t
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariaszx&theme=github-compact&hide_border=true&area=true"/> </div>
+</div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=100&section=footer"/> </div>
