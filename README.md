@@ -13,7 +13,7 @@ Tenho interesse em desenvolvimento web, programação, banco de dados, eletrôni
 
 Utilizo este perfil para documentar meus estudos, projetos acadêmicos e projetos pessoais, acompanhando minha evolução durante minha formação.
 
-Tecnologias
+Tecnologias e conhecimentos
 Linguagens
 <p align="left"> <img src="https://skillicons.dev/icons?i=javascript,c,cpp,html,css" /> </p>
 Banco de dados
@@ -47,7 +47,7 @@ Próximas tecnologias
 
 Tecnologias que pretendo estudar e adicionar à minha stack:
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react,java,cs" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react,java" /> </p>
 
 Python
 
@@ -61,46 +61,66 @@ React
 
 Java
 
-C#
-
 APIs REST
 
 Linux
 
-Docker
+Fundamentos que quero desenvolver
+
+Lógica de Programação
+
+Algoritmos
+
+Estruturas de Dados
+
+Programação Orientada a Objetos
+
+Banco de Dados
+
+Desenvolvimento Backend
+
+Engenharia de Software
+
+Testes de Software
 
 Roadmap
-Fundamentos
-│
-├── Lógica de Programação
-├── Algoritmos
-└── Estruturas de Dados
-        │
-        ▼
-Desenvolvimento Web
-│
-├── HTML
-├── CSS
-├── JavaScript
-└── TypeScript
-        │
-        ▼
-Backend
-│
-├── Node.js
-├── APIs REST
-└── Banco de Dados
-        │
-        ▼
-Projetos
-│
-├── Aplicações Web
-├── Sistemas
-├── APIs
-└── Projetos pessoais
-        │
-        ▼
-Experiência Profissional
+                  DESENVOLVIMENTO DE SISTEMAS
+                              │
+                              ▼
+                   LÓGICA DE PROGRAMAÇÃO
+                              │
+                    ┌─────────┴─────────┐
+                    ▼                   ▼
+                    C                  C++
+                    │                   │
+                    └─────────┬─────────┘
+                              ▼
+                     HTML + CSS
+                              │
+                              ▼
+                        JavaScript
+                              │
+                    ┌─────────┴─────────┐
+                    ▼                   ▼
+                   SQL              Git/GitHub
+                    │                   │
+                    └─────────┬─────────┘
+                              ▼
+                           Python
+                              │
+                              ▼
+                         Node.js
+                              │
+                              ▼
+                         APIs REST
+                              │
+                    ┌─────────┴─────────┐
+                    ▼                   ▼
+                TypeScript            React
+                    │                   │
+                    └─────────┬─────────┘
+                              ▼
+                       Projetos completos
 
 Projetos
 
@@ -112,7 +132,7 @@ Projetos para praticar HTML, CSS e JavaScript, trabalhando estrutura, estilizaç
 
 Programação
 
-Exercícios e aplicações desenvolvidos utilizando C, C++ e JavaScript para aprimorar lógica de programação e resolução de problemas.
+Exercícios e aplicações utilizando C, C++ e JavaScript para desenvolver lógica de programação e resolução de problemas.
 
 Arduino
 
@@ -120,7 +140,7 @@ Projetos envolvendo programação, eletrônica, automação e desenvolvimento de
 
 Banco de Dados
 
-Projetos e exercícios utilizando SQL para criação, consulta, organização e manipulação de dados.
+Projetos e exercícios utilizando SQL para criação, organização, consulta e manipulação de dados.
 
 Novos projetos serão adicionados conforme minha evolução.
 
@@ -138,7 +158,7 @@ Programação
 
 Automação
 
-Internet das Coisas
+Internet das Coisas (IoT)
 
 Sistemas Embarcados
 
@@ -152,10 +172,12 @@ Atividade
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariaszx&theme=github-compact&hide_border=true" /> </div>
 Objetivo
 
-Construir uma base sólida em desenvolvimento de sistemas, transformar conhecimentos em projetos práticos e evoluir continuamente como desenvolvedor.
+Construir uma base sólida em desenvolvimento de sistemas, transformar conhecimentos teóricos em projetos práticos e evoluir continuamente como desenvolvedor.
 
 Busco adquirir experiência, explorar diferentes áreas da tecnologia e desenvolver as habilidades necessárias para atuar profissionalmente na área de desenvolvimento de software.
 
+Contato
+<div align="left"> <a href="https://github.com/Ariaszx"> <img src="https://img.shields.io/badge/GitHub-Ariaszx-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
 <div align="center">
 
 Em constante aprendizado e evolução.
