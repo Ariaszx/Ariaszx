@@ -1,72 +1,76 @@
 <div align="center">
 Miguel Arias
-Desenvolvimento de Sistemas | ETEC
+Estudante de Desenvolvimento de Sistemas
 
-Estudante do 1º ano de Desenvolvimento de Sistemas, interessado em programação, desenvolvimento web e tecnologia.
+ETEC • 1º Ano
 
-<br> <a href="https://github.com/Ariaszx"> <img src="https://img.shields.io/badge/GitHub-Ariaszx-000000?style=for-the-badge&logo=github&logoColor=white"> </a> </div> <br>
-> Sobre mim
+Programação · Desenvolvimento Web · Banco de Dados · Tecnologia
 
-Sou estudante de Desenvolvimento de Sistemas na ETEC e estou construindo minha base na área de tecnologia através de estudos e projetos práticos.
+<br> <a href="https://github.com/Ariaszx"> <img src="https://img.shields.io/badge/GitHub-Ariaszx-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </div>
+Sobre mim
 
-Atualmente, tenho contato com JavaScript, C, C++, HTML, CSS, SQL e Arduino. Meu objetivo é transformar o conhecimento adquirido durante o curso em projetos e continuar evoluindo como desenvolvedor.
+Sou estudante de Desenvolvimento de Sistemas na ETEC, atualmente no 1º ano.
 
-> Tech Stack
-Desenvolvimento
-<p> <img src="https://skillicons.dev/icons?i=javascript,c,cpp" /> </p>
-Web
-<p> <img src="https://skillicons.dev/icons?i=html,css" /> </p>
+Tenho interesse em programação, desenvolvimento web, banco de dados, eletrônica e automação. Utilizo este perfil para compartilhar meus projetos, estudos e acompanhar minha evolução durante minha formação.
+
+Tecnologias
+Linguagens
+<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,javascript" /> </p>
+Desenvolvimento Web
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css" /> </p>
 Banco de Dados
-<p> <img src="https://skillicons.dev/icons?i=mysql" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=mysql" /> </p>
 Hardware
-<p> <img src="https://skillicons.dev/icons?i=arduino" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=arduino" /> </p>
 Ferramentas
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
 
-Também possuo conhecimentos em Microsoft Office.
+Outros conhecimentos: Microsoft Office
 
-> Em aprendizado
+Atualmente estudando
+<p align="left"> <img src="https://img.shields.io/badge/JavaScript-Estudando-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/C-Estudando-A8B9CC?style=flat-square&logo=c&logoColor=black"> <img src="https://img.shields.io/badge/C++-Estudando-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/HTML-Estudando-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-Estudando-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/SQL-Estudando-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-Estudando-00979D?style=flat-square&logo=arduino&logoColor=white"> <img src="https://img.shields.io/badge/Git-Estudando-F05032?style=flat-square&logo=git&logoColor=white"> </p>
+Próximos estudos
+Linguagens e tecnologias
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react,java,linux" /> </p>
 
-Atualmente estou aprofundando meus conhecimentos em:
+Além dessas tecnologias, pretendo estudar:
 
-JavaScript       █████████████████░░░
-C / C++          ███████████████░░░░░
-HTML / CSS       ████████████████░░░░
-SQL              ████████████░░░░░░░░
-Arduino          ███████████░░░░░░░░░
-Git / GitHub     █████████░░░░░░░░░░░
+Delphi
 
-> Próximos passos
+APIs REST
 
-Tecnologias que pretendo estudar:
+Estruturas de Dados
 
-<p> <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react,java,linux" /> </p>
+Algoritmos
 
-Também quero aprender:
+Programação Backend
 
-Delphi · APIs REST · Estruturas de Dados · Algoritmos · Backend
+Projetos
+Desenvolvimento Web
 
-> Projetos
+Projetos utilizando HTML, CSS e JavaScript, com foco em estrutura, estilização, lógica e interatividade.
+
+Programação
+
+Exercícios e aplicações desenvolvidos utilizando C, C++ e JavaScript para praticar lógica e resolução de problemas.
+
+Arduino
+
+Projetos envolvendo programação, eletrônica e automação utilizando Arduino e C/C++.
+
+Banco de Dados
+
+Projetos utilizando SQL para criação, consulta, organização e manipulação de dados.
+
+Novos projetos serão adicionados conforme minha evolução.
+
+Objetivo
+
+Construir uma base sólida em Desenvolvimento de Sistemas, transformar conhecimentos em projetos práticos e desenvolver continuamente minhas habilidades em programação.
+
+Busco adquirir experiência e me preparar para atuar profissionalmente na área de tecnologia.
+
 <div align="center">
-Projeto	Tecnologias	Status
-Projetos Web	HTML • CSS • JavaScript	Em desenvolvimento
-Projetos de Programação	C • C++ • JavaScript	Em desenvolvimento
-Projetos Arduino	C++ • Arduino	Em desenvolvimento
-Projetos SQL	SQL • Banco de Dados	Em desenvolvimento
+Miguel Arias
+
 </div>
-
-Novos projetos serão adicionados conforme avanço nos estudos.
-
-> GitHub Analytics
-<div align="center"> <img height="175" src="https://github-readme-stats.vercel.app/api?username=Ariaszx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariaszx&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Ariaszx&theme=tokyonight&hide_border=true"/> </div>
-> Objetivo
-
-Construir uma base sólida em Desenvolvimento de Sistemas, desenvolver projetos cada vez mais completos e adquirir experiência para atuar profissionalmente na área de tecnologia.
-
-<div align="center">
-Always learning.
-<br> <a href="https://github.com/Ariaszx"> <img src="https://img.shields.io/badge/GitHub-Ariaszx-7C3AED?style=for-the-badge&logo=github&logoColor=white"> </a> </div>
