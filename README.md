@@ -1,52 +1,39 @@
 <div align="center">
 Miguel Arias
+
 Estudante de Desenvolvimento de Sistemas
 
-Aluno da ETEC, atualmente no 1º ano de Desenvolvimento de Sistemas.
+Aluno da ETEC • 1º ano de Desenvolvimento de Sistemas
 
 </div>
 Sobre mim
 
-Sou estudante de Desenvolvimento de Sistemas e estou construindo minha base em programação e desenvolvimento de software.
+Sou estudante de Desenvolvimento de Sistemas, atualmente no 1º ano, com interesse em programação, desenvolvimento web, banco de dados, eletrônica e automação.
 
-Tenho interesse em desenvolvimento web, programação, banco de dados, eletrônica, automação e tecnologia.
+Utilizo este perfil para compartilhar projetos acadêmicos, projetos pessoais e registrar minha evolução durante minha formação.
 
-Utilizo este perfil para documentar meus estudos, projetos acadêmicos e projetos pessoais, acompanhando minha evolução durante minha formação.
-
-Tecnologias e conhecimentos
+Stack
 Linguagens
-<p align="left"> <img src="https://skillicons.dev/icons?i=javascript,c,cpp,html,css" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,javascript" /> </p>
+Web
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css" /> </p>
 Banco de dados
 <p align="left"> <img src="https://skillicons.dev/icons?i=mysql" /> </p>
-Hardware e eletrônica
+Hardware
 <p align="left"> <img src="https://skillicons.dev/icons?i=arduino" /> </p>
 Ferramentas
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
 
-Outros conhecimentos: Microsoft Office
+Também tenho conhecimentos em: Microsoft Office
 
 Atualmente estudando
-
-JavaScript
-
-HTML e CSS
-
-C e C++
-
-SQL e Banco de Dados
-
-Lógica de Programação
-
-Git e GitHub
-
-Arduino
-
-Desenvolvimento de Sistemas
-
-Próximas tecnologias
-
-Tecnologias que pretendo estudar e adicionar à minha stack:
-
+Área	Tecnologias
+Programação	C, C++, JavaScript
+Web	HTML, CSS, JavaScript
+Banco de Dados	SQL
+Hardware	Arduino
+Ferramentas	Git, GitHub
+Próximos estudos
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react,java" /> </p>
 
 Python
@@ -65,119 +52,60 @@ APIs REST
 
 Linux
 
-Fundamentos que quero desenvolver
+Fundamentos
 
-Lógica de Programação
+Tenho como objetivo aprofundar meus conhecimentos em:
+
+Lógica de programação
 
 Algoritmos
 
-Estruturas de Dados
+Estruturas de dados
 
 Programação Orientada a Objetos
 
-Banco de Dados
+Banco de dados
 
 Desenvolvimento Backend
 
 Engenharia de Software
 
-Testes de Software
-
-Roadmap
-                  DESENVOLVIMENTO DE SISTEMAS
-                              │
-                              ▼
-                   LÓGICA DE PROGRAMAÇÃO
-                              │
-                    ┌─────────┴─────────┐
-                    ▼                   ▼
-                    C                  C++
-                    │                   │
-                    └─────────┬─────────┘
-                              ▼
-                     HTML + CSS
-                              │
-                              ▼
-                        JavaScript
-                              │
-                    ┌─────────┴─────────┐
-                    ▼                   ▼
-                   SQL              Git/GitHub
-                    │                   │
-                    └─────────┬─────────┘
-                              ▼
-                           Python
-                              │
-                              ▼
-                         Node.js
-                              │
-                              ▼
-                         APIs REST
-                              │
-                    ┌─────────┴─────────┐
-                    ▼                   ▼
-                TypeScript            React
-                    │                   │
-                    └─────────┬─────────┘
-                              ▼
-                       Projetos completos
+Testes de software
 
 Projetos
 
-Meu GitHub reúne projetos acadêmicos, exercícios e projetos pessoais desenvolvidos durante minha formação.
+Atualmente desenvolvendo projetos acadêmicos e pessoais para colocar meus conhecimentos em prática.
 
 Desenvolvimento Web
 
-Projetos para praticar HTML, CSS e JavaScript, trabalhando estrutura, estilização, lógica e interatividade.
+Aplicações utilizando HTML, CSS e JavaScript.
 
 Programação
 
-Exercícios e aplicações utilizando C, C++ e JavaScript para desenvolver lógica de programação e resolução de problemas.
+Exercícios e aplicações utilizando C, C++ e JavaScript.
 
 Arduino
 
-Projetos envolvendo programação, eletrônica, automação e desenvolvimento de soluções utilizando Arduino e C/C++.
+Projetos de programação, eletrônica e automação.
 
 Banco de Dados
 
-Projetos e exercícios utilizando SQL para criação, organização, consulta e manipulação de dados.
+Projetos utilizando SQL para armazenamento, consulta e organização de dados.
 
 Novos projetos serão adicionados conforme minha evolução.
 
 Áreas de interesse
 
-Desenvolvimento de Sistemas
+Desenvolvimento de Sistemas Web Backend Banco de Dados Programação Automação IoT Sistemas Embarcados
 
-Desenvolvimento Web
-
-Backend
-
-Banco de Dados
-
-Programação
-
-Automação
-
-Internet das Coisas (IoT)
-
-Sistemas Embarcados
-
-Desenvolvimento de Software
-
-GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ariaszx&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariaszx&layout=compact&langs_count=8&theme=github_dark"/> </div>
-GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=Ariaszx&theme=github-dark-blue&hide_border=true" /> </div>
-Atividade
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariaszx&theme=github-compact&hide_border=true" /> </div>
+GitHub
+<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ariaszx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariaszx&layout=compact&langs_count=6&theme=github_dark&hide_border=true"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=Ariaszx&theme=github-dark-blue&hide_border=true" /> </div>
 Objetivo
 
-Construir uma base sólida em desenvolvimento de sistemas, transformar conhecimentos teóricos em projetos práticos e evoluir continuamente como desenvolvedor.
+Construir uma base sólida em desenvolvimento de sistemas, transformar conhecimentos em projetos práticos e evoluir continuamente como desenvolvedor.
 
-Busco adquirir experiência, explorar diferentes áreas da tecnologia e desenvolver as habilidades necessárias para atuar profissionalmente na área de desenvolvimento de software.
+Meu objetivo é adquirir experiência, explorar diferentes áreas da tecnologia e me preparar para atuar profissionalmente na área de desenvolvimento de software.
 
-Contato
-<div align="left"> <a href="https://github.com/Ariaszx"> <img src="https://img.shields.io/badge/GitHub-Ariaszx-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
 <div align="center">
 
 Em constante aprendizado e evolução.
