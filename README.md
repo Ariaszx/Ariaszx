@@ -1,85 +1,72 @@
 <div align="center">
 Miguel Arias
-Estudante de Desenvolvimento de Sistemas
+Desenvolvimento de Sistemas | ETEC
 
-ETEC • 1º Ano
+Estudante do 1º ano de Desenvolvimento de Sistemas, interessado em programação, desenvolvimento web e tecnologia.
 
+<br> <a href="https://github.com/Ariaszx"> <img src="https://img.shields.io/badge/GitHub-Ariaszx-000000?style=for-the-badge&logo=github&logoColor=white"> </a> </div> <br>
+> Sobre mim
+
+Sou estudante de Desenvolvimento de Sistemas na ETEC e estou construindo minha base na área de tecnologia através de estudos e projetos práticos.
+
+Atualmente, tenho contato com JavaScript, C, C++, HTML, CSS, SQL e Arduino. Meu objetivo é transformar o conhecimento adquirido durante o curso em projetos e continuar evoluindo como desenvolvedor.
+
+> Tech Stack
+Desenvolvimento
+<p> <img src="https://skillicons.dev/icons?i=javascript,c,cpp" /> </p>
+Web
+<p> <img src="https://skillicons.dev/icons?i=html,css" /> </p>
+Banco de Dados
+<p> <img src="https://skillicons.dev/icons?i=mysql" /> </p>
+Hardware
+<p> <img src="https://skillicons.dev/icons?i=arduino" /> </p>
+Ferramentas
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+
+Também possuo conhecimentos em Microsoft Office.
+
+> Em aprendizado
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+JavaScript       █████████████████░░░
+C / C++          ███████████████░░░░░
+HTML / CSS       ████████████████░░░░
+SQL              ████████████░░░░░░░░
+Arduino          ███████████░░░░░░░░░
+Git / GitHub     █████████░░░░░░░░░░░
+
+> Próximos passos
+
+Tecnologias que pretendo estudar:
+
+<p> <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react,java,linux" /> </p>
+
+Também quero aprender:
+
+Delphi · APIs REST · Estruturas de Dados · Algoritmos · Backend
+
+> Projetos
+<div align="center">
+Projeto	Tecnologias	Status
+Projetos Web	HTML • CSS • JavaScript	Em desenvolvimento
+Projetos de Programação	C • C++ • JavaScript	Em desenvolvimento
+Projetos Arduino	C++ • Arduino	Em desenvolvimento
+Projetos SQL	SQL • Banco de Dados	Em desenvolvimento
 </div>
-Sobre mim
 
-Sou estudante de Desenvolvimento de Sistemas, atualmente no 1º ano na ETEC.
+Novos projetos serão adicionados conforme avanço nos estudos.
 
-Tenho interesse em programação, desenvolvimento web, banco de dados, eletrônica e automação. Utilizo este perfil para compartilhar meus projetos e acompanhar minha evolução durante minha formação.
+> GitHub Analytics
+<div align="center"> <img height="175" src="https://github-readme-stats.vercel.app/api?username=Ariaszx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariaszx&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
-Tecnologias
-Conhecimentos
-<div align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,javascript,html,css,mysql,arduino,git,github,vscode" /> </div>
+<br><br>
 
-Também possuo conhecimentos em: Microsoft Office
+<img src="https://streak-stats.demolab.com?user=Ariaszx&theme=tokyonight&hide_border=true"/> </div>
+> Objetivo
 
-Estudando atualmente
-<div align="left"> <img src="https://skillicons.dev/icons?i=javascript,html,css,c,cpp,mysql,arduino" /> </div>
-
-Lógica de programação
-
-Desenvolvimento Web
-
-Banco de Dados
-
-Git e GitHub
-
-Projetos com Arduino
-
-Quero aprender
-<div align="left"> <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react,java,linux" /> </div>
-
-Além dessas tecnologias, tenho interesse em aprender Delphi e desenvolver conhecimentos em APIs REST.
-
-Projetos
-Desenvolvimento Web
-
-Projetos utilizando HTML, CSS e JavaScript para praticar desenvolvimento de interfaces e lógica de programação.
-
-Programação
-
-Exercícios e projetos desenvolvidos com C, C++ e JavaScript para aprimorar lógica e resolução de problemas.
-
-Arduino
-
-Projetos envolvendo programação, eletrônica e automação utilizando Arduino e C/C++.
-
-Banco de Dados
-
-Projetos utilizando SQL para criação, consulta e organização de dados.
-
-Áreas de interesse
-
-Desenvolvimento de Sistemas
-
-Desenvolvimento Web
-
-Backend
-
-Banco de Dados
-
-Programação
-
-Automação
-
-Internet das Coisas (IoT)
-
-Sistemas Embarcados
-
-GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ariaszx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariaszx&layout=compact&langs_count=6&theme=github_dark&hide_border=true"/> </div>
-Objetivo
-
-Construir uma base sólida em desenvolvimento de sistemas, transformar meus conhecimentos em projetos práticos e evoluir continuamente como desenvolvedor.
-
-Busco adquirir experiência e me preparar para atuar profissionalmente na área de tecnologia.
+Construir uma base sólida em Desenvolvimento de Sistemas, desenvolver projetos cada vez mais completos e adquirir experiência para atuar profissionalmente na área de tecnologia.
 
 <div align="center">
-
-GitHub
-
-</div>
+Always learning.
+<br> <a href="https://github.com/Ariaszx"> <img src="https://img.shields.io/badge/GitHub-Ariaszx-7C3AED?style=for-the-badge&logo=github&logoColor=white"> </a> </div>
